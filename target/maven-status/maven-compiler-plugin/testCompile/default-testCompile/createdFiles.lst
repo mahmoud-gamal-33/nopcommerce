@@ -1,0 +1,8 @@
+tests\SearchTest.class
+tests\MyAccountTest.class
+utilities\Helper.class
+tests\ContactUsTest.class
+tests\TestBase.class
+tests\ChangeCurrenctTest.class
+tests\UserRegistrationTest.class
+tests\HoverTest.class
